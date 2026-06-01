@@ -74,14 +74,9 @@ Meta-learning can be understood through three primary dimensions:
 * Meta-Optimizer (How to Learn)
 * Meta-Objective (Why to Learn)
 
-### [ADD IMAGE HERE]
 
-**Figure 3.1 – Overview of Meta Learning Landscape**
-**Report Page 22**
-
-```markdown
 ![Meta Learning Landscape](images/meta_learning_landscape.png)
-```
+
 
 ---
 
@@ -247,14 +242,8 @@ Instead of learning fixed parameters, Bayesian meta-learning learns distribution
 
 ## Prior and Posterior Across Tasks
 
-### [ADD IMAGE HERE]
-
-**Figure 3.2 – Prior and Posterior in Tasks**
-**Report Page 38**
-
-```markdown
 ![Prior and Posterior](images/prior_posterior_tasks.png)
-```
+
 
 ---
 
@@ -262,14 +251,11 @@ Instead of learning fixed parameters, Bayesian meta-learning learns distribution
 
 Bayesian meta-learning updates a shared prior into task-specific posteriors during adaptation.
 
-### [ADD IMAGE HERE]
 
-**Figure 3.3 – Visualization of Bayesian Meta-Learning Flow**
-**Report Page 43**
 
-```markdown
+
 ![Bayesian Meta Learning Flow](images/bayesian_meta_flow.png)
-```
+
 
 ---
 
